@@ -1,1 +1,1 @@
-# openjourney-v4-setup
+# Openjourney-v4 Local Setup
